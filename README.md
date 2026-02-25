@@ -1,22 +1,22 @@
-EJS Practice Projects
+EJS Projects
 
-This repository contains projects and exercises built while learning EJS (Embedded JavaScript Templates) with Node.js and Express.
+A structured collection of projects built while learning EJS (Embedded JavaScript Templates) with Node.js and Express.js.
 
-It covers the core concepts of templating and dynamic content rendering in backend web development.
+This repository focuses on understanding server-side rendering, template engines, and dynamic content generation in modern web applications.
 
-📂 Topics Covered
+📌 Overview
 
-Introduction to EJS
+The projects in this repository demonstrate:
 
-EJS Tags
+EJS template syntax and tag types
 
-Passing Data to EJS Templates
+Passing dynamic data from backend to frontend
 
-EJS Partials
+Creating reusable components using EJS Partials
 
-Band Generator Mini Project
+Building a simple Band Generator mini project
 
-🛠 Technologies Used
+🛠 Tech Stack
 
 Node.js
 
@@ -26,19 +26,13 @@ EJS
 
 HTML & CSS
 
-▶️ How to Run
-
-Install dependencies
-
+🚀 Getting Started
+1️⃣ Install Dependencies
 npm install
-
-Start the server
-
+2️⃣ Run the Application
 node index.js
-
-Open your browser and visit
-
+3️⃣ Open in Browser
 http://localhost:3000
-🎯 Purpose
+🎯 Objective
 
-To understand how server-side rendering works using EJS and how dynamic data is passed from backend to frontend.
+To build a strong foundation in server-side templating using EJS and understand how dynamic content is rendered in Express applications.
