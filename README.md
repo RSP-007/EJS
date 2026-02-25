@@ -36,6 +36,7 @@ The projects in this repository cover fundamental and practical concepts of EJS,
 1. Install dependencies:
    ```bash
    npm install
+<hr>
 <h3>🎯 Learning Objectives</h3>
 
 Understand server-side rendering
