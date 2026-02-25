@@ -36,7 +36,7 @@ The projects in this repository cover fundamental and practical concepts of EJS,
 1. Install dependencies:
    ```bash
    npm install
-🎯 Learning Objectives
+<h1>🎯 Learning Objectives
 
 Understand server-side rendering
 
@@ -47,7 +47,7 @@ Pass dynamic data from backend to frontend
 Build modular and reusable UI components
 
 Strengthen backend–frontend integration skills
-
-📖 Purpose
+<hr>
+<h1>📖 Purpose
 
 This repository serves as a hands-on learning resource to build a strong foundation in EJS and Express-based web development.
